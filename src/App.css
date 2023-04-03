@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+.first1{
+  width: 30px;
+  height: 30px;
+  color: red;
+  background-color: black;
+  border-radius: 13px;
+  border: none;
+  font-size: large;
+  
+}
+.first{
+  width: 30px;
+  height: 30px;
+  color: red;
+  background-color: black;
+  border-radius: 13px;
+  margin-left: 4px;
+  border: none;
+  font-size: large;
+}
+.value{
+  font-size: 50px;
+}
